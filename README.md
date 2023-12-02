@@ -3,3 +3,19 @@
 Enjoying [PiHut Maker Advent Calendar](https://thepihut.com/pages/maker-advent-2022-guides)
 
 <img src="advent-calendar.jpg" width="50%" height="50%">
+
+## Setup - Day 01
+
+The development environment is Ubuntu 22.04.
+Used IDE is [Thonny](https://thonny.org/) To install Thonny:
+
+    sudo apt install thonny
+
+User needs to be added to `dialout` group. To add run command:
+
+    sudo usermod -a -G dialout <user-name>
+
+More information in
+https://thepihut.com/blogs/raspberry-pi-tutorials/maker-advent-calendar-day-1-getting-started
+
+[First try - turn ON the on board LED](onboardled.py)
