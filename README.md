@@ -18,4 +18,11 @@ User needs to be added to `dialout` group. To add run command:
 More information in
 https://thepihut.com/blogs/raspberry-pi-tutorials/maker-advent-calendar-day-1-getting-started
 
-[First try - turn ON the on board LED](onboardled.py)
+code: [First try - turn ON the on board LED](onboardled.py)
+
+## Blinky LEDs - Day 02
+
+The docs:
+https://thepihut.com/blogs/raspberry-pi-tutorials/maker-advent-calendar-day-2-let-s-get-blinky
+
+code: [Blinky LEDs](blinkyleds.py)
