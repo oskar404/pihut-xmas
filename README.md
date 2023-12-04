@@ -35,3 +35,10 @@ The docs:
 https://thepihut.com/blogs/raspberry-pi-tutorials/maker-advent-calendar-day-3-bashing-buttons
 
 code: [Bashing Buttons](buttonbash.py)
+
+## Amazing Analogue - Day 04
+
+The docs:
+https://thepihut.com/blogs/raspberry-pi-tutorials/maker-advent-calendar-day-4-amazing-analogue
+
+code: [Amazing Analogue](analog.py)
