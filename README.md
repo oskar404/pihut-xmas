@@ -42,3 +42,10 @@ The docs:
 https://thepihut.com/blogs/raspberry-pi-tutorials/maker-advent-calendar-day-4-amazing-analogue
 
 code: [Amazing Analogue](analog.py)
+
+## Buzzing - Day 05
+
+The docs:
+https://thepihut.com/blogs/raspberry-pi-tutorials/maker-advent-calendar-day-5-hear-my-code
+
+code: [Ti-ti-ti - Buzzer](buzzer.py)
